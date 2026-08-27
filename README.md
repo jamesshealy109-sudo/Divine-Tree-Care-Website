@@ -7,7 +7,8 @@ A fast, responsive, dependency-free marketing site for Divine Tree Care in West 
 - Mobile-first responsive layout
 - Click-to-call and click-to-email CTAs
 - Static estimate form that opens a pre-filled email (works on GitHub Pages with no backend)
-- Services section for tree trimming, removal, stump grinding, lot clearing, demolition, and debris hauling
+- Services section for tree trimming, removal, stump grinding, lot clearing, demolition, and storm cleanup
+- Official Divine Tree Care logo and public project photos sourced from the business Facebook page
 - Accessible navigation and reduced-motion support
 - SEO / Open Graph metadata
 - No build process or framework required
@@ -39,9 +40,9 @@ The site will publish at:
 - West Columbia, SC
 - Phone: (803) 543-1991
 - Email: divinetreecare@gmail.com
-- Services: tree trimming, tree removal, lot clearing, stump grinding, demolition, and debris hauling
+- Services: tree trimming, tree removal, lot clearing, stump grinding, demolition, and storm cleanup
 - Facebook: https://www.facebook.com/divinetreecare/
 
-## Notes
+## Content sources
 
-The visual identity in this starter site is an original web treatment created for the project. If you have the official Divine Tree Care logo or job-site photos, add them to `assets/` and they can be incorporated without changing the overall structure.
+The official logo, public project imagery, service language, always-open status, and free on-site estimate message were sourced from the Divine Tree Care Facebook page. Business contact details and the 2012 establishment date were cross-checked against the University of South Carolina small and local business directory.
